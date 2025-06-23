@@ -63,7 +63,7 @@ List of all Indian states and their IDs.
 5. Use of SQL logic like JOINs, GROUP BY, CASE WHEN, and Subqueries
 
 
-***CODING***
+***CODING IN SQL***
 
 *** State-wise seat distribution by alliance***
 ```
